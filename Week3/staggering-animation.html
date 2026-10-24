@@ -1,0 +1,44 @@
+<style>
+    .item{
+        animation: appear 2s ease;
+        height: 100px;
+        width: 400px;
+    }
+
+    .item:nth-child(1){
+        animation-delay: 0s;
+        background-color: blue;
+    }
+    .item:nth-child(2){
+        animation-delay: 0.4s;
+        background-color: red;
+        /* transition: 0.4s ease-in; */
+        transform: translateX(50px);
+    }
+    .item:nth-child(3){
+        animation-delay: 0.8s;
+        background-color: green;
+        /* transition: 0.8s ease-in; */
+        transform: translateX(100px);
+    }
+    .item:nth-child(4){
+        animation-delay: 1.2s;
+        background-color: orange;
+        /* transition: 1.2s ease-in; */
+        transform: translateX(150px);
+    }
+
+    @keyframes appear {
+        from{
+            opacity: 0;
+        }
+        to{
+            opacity: 1;
+        }
+    }
+</style>
+
+<div class="item">item 1</div>
+<div class="item">item 2</div>
+<div class="item">item 3</div>
+<div class="item">item 4</div>

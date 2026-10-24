@@ -1,0 +1,141 @@
+HTML ->
+    HyperText Markup Language -> 
+
+HTML -> it is not not your traditional programming Language
+
+if, while (loops), variables -> 
+
+
+h1 -> heading 
+p -> paragrapg
+li -> list 
+
+coded words -> that result into something meaningful 
+
+
+markup -> 
+## -> Big heading 
+Notion -> ## -> big heading -> Markup
+
+
+Concept of Tag 
+
+HTML -> that is a very lilient language -> 
+    not strict -> 
+
+    as a developer even if you make mistake -> coverup -> 
+
+    never ever do syntax mistake intentioanlly -> 
+
+3 type tags -> 
+    currently only 2 are relavant
+
+One of the categorisation of tags -> 
+    1. paired tags
+    2. self closing tags
+    3. Unpaired tags 
+
+list tags -> 
+    list -> 
+        2 options -> 
+            ol  -> ordered list
+            ul -> unoredered list
+
+        list item
+
+element vs tag -> both terms can be interchangebly used
+
+
+tag -> 
+    attribute -> 
+        attribute tells additional properties or features  -> about a tag
+
+    <h1  > -> it added a further feature -> 
+
+Every tag -> 
+    can have multiple attributes that it can support?
+
+    Do we need to rememeber them?
+        Absolutely no -> 
+
+
+    Documentation -> 
+
+
+        Attributes? 
+        do we need to remember them?
+        documetnation? 
+
+    JS -> Documentation
+    css -> 
+
+1st paired and unpaired (self closing)
+
+2nd distinction ->
+    block tag 
+    and inline tag
+
+
+    block -> 
+        h1 - h6, p, li, 
+    inline -> 
+        input, img, 
+
+
+h1 -> that takes a default css of h1 
+h2 -> csss which is for h2 
+
+i have every right to change css 
+
+
+Semantic -> 
+    every tag has its own meanign 
+
+    img -> image 
+    h1 -> biggest heading 
+    h2 -> secnod biggest heading 
+
+    p -> a series of text 
+
+    ol -> 1 2 3
+
+
+Can I make my website by just using a div tag? 
+    Yes I can make but I should never 
+        why? it will impact my seo and developer experience
+
+HTML5 -> 
+    many new semantic tags -> 
+    
+    1. main
+    2. nav -> navigation
+    3. footer 
+    4. header 
+    5. section - a logical isolation of content
+    6. aside -> something on the sidelines of the website which might not be directly
+    realted to the content that we are displaying
+    7. article -> 
+
+    if I want to group elements on the basis of some criteria 
+
+    <a> -> anchor tag -> 
+
+
+
+
+    img 
+
+    absolute path and relative path 
+
+    absolute path -> 
+
+    form -> (quite important )
+    table ->
+
+
+name=Naman+Jindal&address=lkklkl
+
+
+1. CDN -> which helps us to boost our network speed -> by introducing psuedo servers
+2. Clouds image storage / file storage solutions are cheaper than dealing with our own server 
+3. Caching -> 

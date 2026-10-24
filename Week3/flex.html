@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .container{
+            background-color: black;
+            width: 60%;
+            height: 700px;
+            margin: 0 auto;
+
+            display: flex;
+            flex-direction: row  ;  /*- axis of flex */
+            /* flex-wrap: wrap; nowrap is by default */
+            /* justify-content: center;
+            align-items: center;  */
+
+            /* align-content: start; */
+            justify-content: end;
+            /* gap: 30px;  */
+            /* vertical gap and horizontal gap -space */
+
+        }
+        .box{
+            height: 100px;
+            width: 100px;
+        }
+        .green{background-color: green; 
+            /* order: 1; */
+        }
+        .red{
+            background-color: red;
+            /* flex: 1;  */
+            order: 10;
+        }
+        .purple{background-color: purple; order: -1}
+        .blue{
+            background-color: blue;
+            /* flex-grow: 3; */
+            order: 3;
+        }
+    </style>
+</head>
+<body>
+    
+    <div class="container">
+        <div class="box red">red </div>
+        <div class="box green">green </div>
+        <div class="box blue"> blue</div>
+        <div class="box purple"> purple</div>
+        <div class="box red">red </div>
+        <div class="box green">green </div>
+        <div class="box blue"> blue</div>
+        
+    </div>
+</body>
+</html>
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur quaerat impedit quia odio blanditiis dolorum fugit tenetur, temporibus necessitatibus ea sed ipsa deleniti est error? Asperiores maiores sapiente nobis in autem commodi dolores, quis placeat dicta pariatur voluptatum voluptates vero rem recusandae. Voluptates illum ullam officiis ut laboriosam, nulla iste tempore tenetur, cum officia facilis? Pariatur excepturi, a officiis dignissimos quasi id blanditiis deleniti consectetur molestias tempore quas beatae itaque cum voluptas eum esse in officia molestiae? Debitis qui iste recusandae quisquam ipsum aperiam cumque voluptatum ut corrupti exercitationem, minus provident doloribus necessitatibus velit perferendis facere iusto quidem hic quod.

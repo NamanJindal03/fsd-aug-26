@@ -1,0 +1,157 @@
+Full Stack "Web" Development - 
+
+
+Frontend -> Web -> 
+
+Backend 
+    -> android
+    -> ios and other things can be used
+
+Engineer -> 
+    Frontend -> 
+    Backend ->
+
+
+Program -> 
+    System -> Machine -> 
+        what does it understand????
+          Binary Language -> 
+            0 and 1
+            
+            00011111111 -> 
+            infinite chize construct 
+        
+        1 -> 1
+        10 -> 2 
+        11 -> 3 
+        100 -> 4 
+        101 -> 5
+        
+Every language has  
+    1. some kind of uniqueness to them -> 
+    2. some are better are some things 
+    3. other are better at other thing 
+    4. Every language has their own "syntax"    
+
+Variable -> 
+
+    container -> value -> 
+
+    JS -> 
+
+    number1 = 10
+    number2 = 20
+
+    name = naman
+
+    age = 10
+
+
+build -> 
+requirement gathering -> 
+jo mai solve kr raha huu wo kya mai sahi chiz samaj kr solve kr raha huu
+
+SDLC -> software development lifecycle -> 
+1. requirement gathering
+2. plan -> how will i execute it -> 
+3. design -> 
+4. Development -> 
+5. Testing 
+6. Deployment -> 
+7. Maintainence 
+
+
+the whole world connected through wired and wireless medium -> 
+
+HTML -> skeleton
+CSS -> design, layout, colors, beutification of website 
+and JS -> interactivity, clicks, scrolls, popups, and a lot more
+
+<div class="dropdown">
+  <button class="btn btn-primary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+    Dropdown
+  </button>
+  <ul class="dropdown-menu">
+    <li><button class="dropdown-item" type="button">Dropdown item</button></li>
+    <li><button class="dropdown-item" type="button">Dropdown item</button></li>
+    <li><button class="dropdown-item" type="button">Dropdown item</button></li>
+  </ul>
+</div>
+
+Inspect element ke through we get thing
+and the name of this is Developer tools/ chrome dev tools/ Web tools 
+
+49.36.177.14 - naman's ip address -> 
+
+2 types of IP addresses 
+    1. Public IP address 
+    2. Private IP address
+
+google -> ip 
+airbnb -> ip 
+facebook -> ip 
+
+
+reason? 
+
+does every company share one server? 
+    NOOOOOOOO 
+
+infact one company can have thousands of servers -> 
+
+
+
+
+v4, v6
+
+new website create krni hai -> internet lekar -> 
+
+nj.com
+
+1. Domain Buying -> where???
+    Will that work if I just but nj-codes.com 
+
+        NOOOOOOOOO 
+
+2. dedicated ip address -> server -> where do we get servers from? virtual machine from 
+    Cloud services -> aws, azure
+    hosting providers -> hostinger
+        Machine rent krte -> dedicated IP address -> 
+
+3. We need to connect our domain with the hosting -> 
+        behind the scenes what happens???? 
+         DNS update at every place 
+
+4. html css js code, deploy over the amazon server -> 
+
+
+2 raise 32 -> unique address create -> 4,294,967,296 -> 430 crores 
+340,282,366,920,938,463,463,374,607,431,768,211,456
+
+126 bits and 8 bytes -> 
+
+
+
+URL -> breakdown -> 
+
+https://www.google.com/random?filter=product
+
+
+1. Bug resolution
+2. security fixes 
+3. New features 
+4. new UI 
+
+pwd -> present work directory (folder)
+ls -> list
+cd -> change directory (folder )
+
+ls -a -> list all (-a is a flag)
+touch -> create file. 
+mkdir -> make directory (create a folder)
+cd .. -> one folder up 
+cd ../.. -> two folder up
+
+rmdir -> remove directory
+rm -> remove
+rm -rf -> remove recursively (continously) and forcefully

@@ -1,0 +1,26 @@
+*{
+    /* all possible elements */
+    /* background-color: beige; */
+    font-family: 'Gill Sans';
+}
+body{
+    /* background-color: chartreuse;/ */
+}
+#pId{
+    color: midnightblue;
+}
+.pCla{
+    color: burlywood;
+}
+
+p{
+    color: red !important;
+    font-size: 28px;
+    text-decoration: underline;
+}
+#pAdjacent{
+    color: purple;
+}
+.dum-dum{
+    border: 5px solid red;
+}

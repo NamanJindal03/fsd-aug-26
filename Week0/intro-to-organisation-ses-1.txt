@@ -1,0 +1,29 @@
+How Tech Companies Actually Work -> 
+
+CEO to Intern
+
+1. To maintian digital notes rather than book notes -> 
+    Code -> 
+        Images -> Notion -> 
+    
+    Notion  
+        1. Sub pages 
+        2. Images 
+        3. Workspace links -> 
+        4. AI -> 
+        5. code blocks -> 
+        6. 
+
+
+HTML CSS -> Base fundameentals 
+Git/github ->
+
+JS -> 
+TS -> 
+
+Node -> Backned -> mongo, sql
+
+React/Next -> frontend
+
+
+1. Doubt sessions? ->

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style> 
+        /* desktop first design */
+        #navbar{
+            width: 100%;
+            background-color: grey;
+
+        }
+        #navbar > ul > li{
+             list-style-type: none; 
+             display: inline-block;
+             
+        }
+        #hamburger{
+            display: none;
+        }
+        @media (max-width: 768px) {
+            #navbar > ul {
+                display: none;
+            }
+            #hamburger{
+                display: block;
+            }
+        }
+    </style>
+</head>
+<body>
+    
+    <div id="navbar">
+        <ul>
+            <li>Home</li>
+            <li>About</li>
+            <li>Contact</li>
+            <li>Blogs</li>
+        </ul>
+        <button id="hamburger">Hamburger</button>
+    </div>
+</body>
+</html>
+
+
