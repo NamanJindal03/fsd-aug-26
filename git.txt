@@ -1,0 +1,10 @@
+local | remote 
+
+3 steps -> 
+staging -> commit -> remote upload 
+
+git add . -> git commit -m "your message" -> git push 
+
+git status -> this tells what is your status of git 
+git log -> this tells the history of your committed code 
+git rm --cached <file_name> -> to remove something from the staging 
