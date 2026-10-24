@@ -8,3 +8,22 @@ git add . -> git commit -m "your message" -> git push
 git status -> this tells what is your status of git 
 git log -> this tells the history of your committed code 
 git rm --cached <file_name> -> to remove something from the staging 
+git reset --hard commit-id 
+to go bck to a commit temporarily -> git checkout commit-id
+ 
+ github alternatives 
+ bitbucket 
+ gitlab
+ azurebucket 
+ and many more
+  
+  How do I (local nj) -> connect to a remote repository -> 
+
+Git connection can be established in 2 ways -> 
+1. Http (is present in all of your system )
+2. SSH (a little advanced setup) -> in my system
+ 
+ git remote -v -> list all the remotes which you have configured
+
+ git push -u origin main | git push --set-upstream origin main -> are same
+ 1 branch -> if you are pushing the code for the first time -> you need to set this upstream -> 
