@@ -28,3 +28,9 @@ Git connection can be established in 2 ways ->
  git push -u origin main | git push --set-upstream origin main -> are same
  1 branch -> if you are pushing the code for the first time -> you need to set this upstream -> 
  a lot more to learn
+  
+  -f | --hard -> very very carefully use them -> you could destroy months of work -> 
+  ideally many of them are disbaled over the remote platform -> but you never know
+   
+   take a senior wiht you and tkae advice and then only do (rarely take suggestions from AI on these 
+   ideally it might tell you correct (atleast now) but the changes could be very dangerous)
