@@ -27,3 +27,4 @@ Git connection can be established in 2 ways ->
 
  git push -u origin main | git push --set-upstream origin main -> are same
  1 branch -> if you are pushing the code for the first time -> you need to set this upstream -> 
+ a lot more to learn
