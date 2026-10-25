@@ -1,1 +1,0 @@
-const someVariable = 'naman'
