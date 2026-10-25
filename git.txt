@@ -34,3 +34,7 @@ Git connection can be established in 2 ways ->
    
    take a senior wiht you and tkae advice and then only do (rarely take suggestions from AI on these 
    ideally it might tell you correct (atleast now) but the changes could be very dangerous)
+
+  Added some more new informaiion
+
+  coding 10000s of files, writng millions of lines of codes 
