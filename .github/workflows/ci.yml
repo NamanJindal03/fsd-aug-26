@@ -15,3 +15,6 @@ jobs:
         
         - name: Show Node Version
           run: node --version
+        
+        - name: intentinal error
+          run: npm run invalid-command
