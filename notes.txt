@@ -1,0 +1,12 @@
+three ways to check version for any language
+
+<language> --version 
+<language> -version
+<language> -v
+<language> --v
+
+
+to compile/convert the ts code to js 
+    -> npx tsc
+
+Continue from session 15 -> the switchboard topic slide 18-> 

@@ -1,0 +1,21 @@
+{
+  "name": "package-dealing",
+  "version": "1.0.0",
+  "description": "i am explaining how we deal with external/3rd party packages ",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "convert": "npx tsc",
+    "run-js": "node dist/first-ts-code.js"
+  },
+  "dependencies": {
+    "is-even": "^1.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  },
+  "keywords": []
+}
